@@ -8,6 +8,7 @@ Each project lives in its own folder with a full writeup.
 | # | Project | Focus |
 |---|---|---|
 | 1 | [E-Commerce Data Cleaning & EDA](./AnalystLab-Africa-Ecommerce-EDA) | Cleaning 541K+ retail transactions and uncovering revenue, seasonality, and customer insights |
+| 2 | [Netflix Titles Data Cleaning & EDA](./AnalystLab-Africa-Netflix-EDA) | Cleaning Netflix's catalog and analyzing content mix, growth trends, countries, and genres |
 
 ## Skills demonstrated
 - Data cleaning & validation with pandas
