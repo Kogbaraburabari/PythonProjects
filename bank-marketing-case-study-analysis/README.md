@@ -145,6 +145,13 @@ contact channel that isn't properly recorded converting far worse as a result.
 
 ## 8. Repository Contents
 
+bank-marketing-case-study-analysis/
+├── README.md
+├── bank_marketing_analysis.ipynb                 # Full analysis notebook
+├── bank_cleaned.csv                              # Cleaned dataset
+├── Bank_Marketing_Report.docx         # Full written report (Word)
+├── Bank_Marketing_Presentation.pptx   # Slide deck
+
 ## 9. Author
 
 **Burabari Gift Kogbara**
