@@ -18,7 +18,7 @@ do not, and which customer groups are more likely to respond positively to marke
 campaigns?
 
 Answering this allows the bank to shift from a one-size-fits-all campaign to a
-targeted strategy improving conversion while reducing wasted outreach.
+targeted strategy, improving conversion while reducing wasted outreach.
 
 ---
 
@@ -78,26 +78,26 @@ targeted strategy improving conversion while reducing wasted outreach.
 
 Subscription is driven far more by a customer's **life stage and financial
 circumstances** than by campaign mechanics alone. Customers with fewer competing
-financial commitments students, retirees, and single customers are consistently
+financial commitments — students, retirees, and single customers — are consistently
 more receptive, a pattern that repeats independently across age, job, and marital
 status.
 
 The single strongest driver, however, is the customer's **own history with the
-bank** prior campaign success predicts future success far better than any
+bank** — prior campaign success predicts future success far better than any
 demographic factor, representing a low-effort, high-return re-engagement
 opportunity.
 
 Meanwhile, working-age, married, blue-collar/entrepreneur customers are the
 hardest-to-convert segment, and 21% of customers are being reached through a
-contact channel that isn't properly recorded converting far worse as a result.
+contact channel that isn't properly recorded — converting far worse as a result.
 
 ---
 
 ## 6. Recommendations
 
-1. **Prioritize re-engaging customers with previous campaign success** they convert at nearly double the overall rate (~91% vs ~47%).
+1. **Prioritize re-engaging customers with previous campaign success** — they convert at nearly double the overall rate (~91% vs ~47%).
 2. **Shift marketing focus toward students, retirees, and single customers**, who consistently show the highest subscription rates.
-3. **Reduce reliance on unrecorded ("unknown") contact methods** investigate the data gap and shift toward cellular/telephone contact.
+3. **Reduce reliance on unrecorded ("unknown") contact methods** — investigate the data gap and shift toward cellular/telephone contact.
 4. **Reconsider campaign timing and volume**, particularly around May, where the largest contact push coincided with the weakest performance.
 5. **Use account balance as a pre-screening signal** for outreach prioritization.
 
@@ -145,12 +145,29 @@ contact channel that isn't properly recorded converting far worse as a result.
 
 ## 8. Repository Contents
 
+```
 bank-marketing-case-study-analysis/
 ├── README.md
-├── bank_marketing_analysis.ipynb                 # Full analysis notebook
-├── bank_cleaned.csv                              # Cleaned dataset
-├── Bank_Marketing_Report.docx         # Full written report (Word)
-├── Bank_Marketing_Presentation.pptx   # Slide deck
+├── bank_marketing_analysis.ipynb                # Full analysis notebook
+├── bank_cleaned.csv                             # Cleaned dataset
+├── Bank_Marketing_Report.docx                   # Full written report (Word)
+├── Bank_Marketing_Presentation.pptx              # Slide deck
+└── charts/                                      # Exported chart images (12 total)
+    ├── chart_pie.png
+    ├── chart_age_hist.png
+    ├── chart_balance_overall.png
+    ├── chart_job.png
+    ├── chart_education.png
+    ├── chart_marital.png
+    ├── chart_age_group.png
+    ├── chart_poutcome.png
+    ├── chart_contact.png
+    ├── chart_month.png
+    ├── chart_heatmap.png
+    └── chart_balance_box.png
+```
+
+---
 
 ## 9. Author
 
