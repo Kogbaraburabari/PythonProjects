@@ -143,7 +143,7 @@ contact channel that isn't properly recorded converting far worse as a result.
 
 ---
 
-## 8. Repository Contents
+## 8. Files in this project
 
 - [bank_marketing_analysis.ipynb](bank_marketing_analysis.ipynb) — full analysis notebook
 - [bank_cleaned.csv](bank_cleaned.csv) — cleaned dataset
