@@ -145,16 +145,8 @@ contact channel that isn't properly recorded converting far worse as a result.
 
 ## 8. Repository Contents
 
-- `bank_marketing_analysis.ipynb` — full analysis notebook
-- `bank_cleaned.csv` — cleaned dataset
-- `Bank_Marketing_Report.docx` — full written report (Word)
-- `Bank_Marketing_Presentation.pptx` — slide deck
+- [bank_marketing_analysis.ipynb](bank_marketing_analysis.ipynb) — full analysis notebook
+- [bank_cleaned.csv](bank_cleaned.csv) — cleaned dataset
+- [Bank_Marketing_Report.docx](Bank_Marketing_Report.docx) — full written report (Word)
+- [Bank_Marketing_Presentation.pptx](Bank_Marketing_Presentation.pptx) — slide deck
 - `chart_*.png` — 12 exported chart images used in Section 7 above
-
----
-
-## 9. Author
-
-**Burabari Gift Kogbara**
-AnalystLab Africa Data Analytics Internship Program — Week 5 Business Analytics
-Case Study.
