@@ -150,3 +150,7 @@ contact channel that isn't properly recorded converting far worse as a result.
 - [Bank_Marketing_Report.docx](Bank_Marketing_Report.docx) — full written report (Word)
 - [Bank_Marketing_Presentation.pptx](Bank_Marketing_Presentation.pptx) — slide deck
 - `chart_*.png` — 12 exported chart images used in Section 7 above
+
+## 9. Skills Applied
+
+Python · pandas · matplotlib · seaborn · Data Cleaning · Data Validation · Exploratory Data Analysis · Business Insight Generation · Data Visualization · Stakeholder Reporting
